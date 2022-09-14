@@ -26,7 +26,7 @@
   <h3>Software Development</h3>
   <div>
   <h3>Languages</h3>
-  <a target='_blank' href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black" /></a>
+  <a target='_blank' href="#" src="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black" /></a>
   <a target='_blank' href="#"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /></a>
   <h3>Front End</h3>
   <a target='_blank' href="#"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>

@@ -20,7 +20,7 @@
 
 [![Tjreinhardt's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjreinhardt&count_private=true&theme=react)](https://github.com/tjreinhardt/github-readme-stats)
 
-## What's In My Tool Kit
+## Technologies
 
 <p>
   <h3>Software Development</h3>

@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Tjreinhardt's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjreinhardt&count_private=true&theme=react)](https://github.com/tjreinhardt/github-readme-stats)
 
 <!--
 **tjreinhardt/tjreinhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

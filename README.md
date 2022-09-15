@@ -16,6 +16,12 @@
 - 💻 Learning tools for full-stack development
 - 💼 Former Tour Manager / Audio Engineer
 
+
+    Currently, I am a Software Engineer with a background education from App Academy, a 1000+ hour course with sub-3% acceptance rate, to learn the most up-to-date frameworks and best practices to transition quickly, and effectively into the work marketplace. I have built multiple full stack applications, some of which were solo, others with groups using the latest and most consistently desired frameworks, such as: Javascript, React, Redux, Python, Flask, Node.js, Jquery, Express.js, Pug.js, HTML, CSS, SQL, PostgreSQL, SQLAlchemy, Sqlite3, Docker, Git, React-Spring, and more. Connect with me if you share similar interests or would like to potentially work together :)
+
+    Throughout my years, I've been able to work with some amazing names and teams across the United States. Previously, I've worked with professional recording studios, live-media production teams, charities, non-profits, film crews, and more. I am an experienced Audio Engineer with education from SAE Institute, a fast-paced, hands-on program learning how to safely and effectively utilize audio recording/playback equipment in both recording studios, A/V post production, live-media broadcasting and performance, as well as learned best practices for working with industry clients and professionals. I've also undergone multiple mentorships with industry pro's and traveled the country to work with them.
+
+
 ## My GitHub Stats:
 
 [![Tjreinhardt's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjreinhardt&count_private=true&theme=react)](https://github.com/tjreinhardt/github-readme-stats)
